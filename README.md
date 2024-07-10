@@ -22,3 +22,4 @@ Running the App
 To start the application, run the following command:
 
 npm run dev on both the client and server terminals.
+N:B Make sure the port in the baseUrl of the service folder is same as the port in the server env file.
