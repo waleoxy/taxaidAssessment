@@ -4,7 +4,7 @@ import MaxWidthWrapper from "../components/max-width-wrapper";
 
 const RootLayoot = () => {
   return (
-    <div className="w-full h-screen bg-no-repeat bg-[url('logistiks.jpg')]">
+    <div className="w-full h-screen bg-no-repeat bg-[url('/assets/logistiks.jpg')]">
       {" "}
       <Navbar />
       <MaxWidthWrapper className="h-full flex items-center ">
